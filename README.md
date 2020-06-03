@@ -5,7 +5,7 @@
 </p>
 
 # HollyArms
-<sub>*Data Science* aplicada Center</sub>
+<sub>*Data Science* aplicada /Center</sub>
 
 
 

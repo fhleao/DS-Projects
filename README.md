@@ -3,7 +3,7 @@
   <img src="data-science-banner.png" >
 </p>
 
-# HollyArms
+# Fernando Leão
 <sub>*Data Science* aplicada </sub>
 
 

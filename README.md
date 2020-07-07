@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="data-science-banner.png" >
+  <img src="banner.png" >
 </p>
 
 # Fernando Leão
@@ -8,7 +8,7 @@
 
 
 
-**Background in:** Python, Machine Learning, Deep Learning.
+**Background in:** Python, Data Science, Machine Learning, Deep Learning.
 
 **Links:**
 * [Em breve](http://)

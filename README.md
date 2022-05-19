@@ -17,6 +17,4 @@
 ## Projetos:
 Em breve:
 
-* **Analisando os dados de hospedagem do Hawaii através do Airbnb:** https://github.com/holyarmsBR/DS-Projects/blob/master/Analisando_dados_do_Airbnb_Hawaii.ipynb
-
 ---
